@@ -136,11 +136,12 @@ This course provides a refresher on the foundations of statistical analysis. The
 Please download and unzip [this file](http://sbc.shef.ac.uk/stats-in-r/stats_course.zip)
 
 Please watch these lectures before the workshop
-
+<!--
 - [Introduction](https://youtu.be/towMwBtg0KA)
 - [Part 1](https://youtu.be/UXdsOBcsBjA)
 - [Part 2](https://youtu.be/oDjOSV5yas4)
 - [Part 3](https://youtu.be/uL6N07w3L18)
+-->
 
 ## Course Notes
 
